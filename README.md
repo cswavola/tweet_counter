@@ -1,5 +1,4 @@
-# tweet_counter
-Amazon AWS based Tweet Counter
+# Amazon AWS based Tweet Counter
 
 This pipeline tool is launched through an Amazon EC2 instance to gather and perform live analysis on tweet content. It uses Apache Storm, Amazon EC2, Python, Twitter API, Streamparse, Postgres, PsycoPG, and Tweepy.
 
